@@ -86,9 +86,9 @@ author:
   location         : "Clemson, SC, United States"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=bWD6O90AAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     : "https://scholar.google.com/citations?user=bWD6O90AAAAJ&hl=en&oi=ao"
+  researchgate     : #""
   uri              :
   bitbucket        :
   codepen          :
