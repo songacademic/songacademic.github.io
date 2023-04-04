@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<style>
+imp {color:Red}
+</style>
 
 {% include base_path %}
 
@@ -30,6 +33,7 @@ IEEE Security & Privacy Magazine 2021
 
 * [Measuring the Effectiveness of Privacy Policies for Voice Assistant Applications](https://dl.acm.org/doi/pdf/10.1145/3427228.3427250?casa_token=UnHyFE9kGeQAAAAA:8xXgKCX-bEyI-wZCJZWoOBQG-ohvDSn57rk6DBq_ufoGBmq4a_D4tmK2g4jGbl83ocXQ8ccDBLHuiw) <br/>
 **Song Liao**\*, Christin Wilson*, Long Cheng, Hongxin Hu, and Huixing Deng. <br/>
+<imp>Distinguish Paper Award </imp> <br/>
 Annual Computer Security Applications Conference (**ACSAC**), 2020
 
 * [Dangerous skills got certified: Measuring the trustworthiness of skill certification in voice personal assistant platforms](https://dl.acm.org/doi/pdf/10.1145/3372297.3423339) <br/>
