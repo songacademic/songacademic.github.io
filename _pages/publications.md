@@ -25,7 +25,7 @@ Matthew Costello, Long Cheng, Feng Luo, Hongxin Hu, **Song Liao**, Nishant Vishw
 **Song Liao**, Christin Wilson, Long Cheng, Hongxin Hu, and Huixing Deng. **IEEE Security & Privacy Magazine 2021**.
 
 * [Measuring the Effectiveness of Privacy Policies for Voice Assistant Applications](https://dl.acm.org/doi/pdf/10.1145/3427228.3427250?casa_token=UnHyFE9kGeQAAAAA:8xXgKCX-bEyI-wZCJZWoOBQG-ohvDSn57rk6DBq_ufoGBmq4a_D4tmK2g4jGbl83ocXQ8ccDBLHuiw) <br/>
-**Song Liao**\*, Christin Wilson*, Long Cheng, Hongxin Hu, and Huixing Deng. **ACSAC 2021**.
+**Song Liao**\*, Christin Wilson*, Long Cheng, Hongxin Hu, and Huixing Deng. **ACSAC 2020**.
 
 * [Dangerous skills got certified: Measuring the trustworthiness of skill certification in voice personal assistant platforms](https://dl.acm.org/doi/pdf/10.1145/3372297.3423339) <br/>
 Long Cheng, Christin Wilson, **Song Liao**, Jeffrey Young, Daniel Dong, and Hongxin Hu. **CCS 2020**.
