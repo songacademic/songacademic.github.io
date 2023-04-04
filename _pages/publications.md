@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-[[Google Scholar](https://scholar.google.com/citations?user=bWD6O90AAAAJ&hl=en) \| (\* Equal Contribution)
+[[Google Scholar](https://scholar.google.com/citations?user=bWD6O90AAAAJ&hl=en)] (\*Equal Contribution)
 
 
 
