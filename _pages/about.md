@@ -25,7 +25,7 @@ Prior to my Ph.D. studies, I earned both my bachelor's and master's degrees from
 
 # News
 
-- <pap>[Paper]</pap><text> 08/2021: One paper on Policy-Violation Detection of Voice Assistant Applications was accepted by USENIX Security, 2022. </text>
+- <pap>[Paper]</pap><text> 08/2021: One paper on Policy-Violation Detection of Voice Assistant Applications was accepted by <b><font color="red">USENIX Security</font></b>, 2022. </text>
 - <talk>[Talk]</talk><text> 07/2021: We presented our work on Policy-Violation Detection of Voice Assistant Applications at the FTC's <a href = "https://www.ftc.gov/media/73491">PrivacyCon 2021</a>. </text>
 - <gr>[Award]</gr><text> 05/2021: Google awarded us a bug bounty for reporting various policy-violating Google Actions.</text>
 - <pap>[Paper]</pap><text> 05/2021: One paper on Privacy Policy Analysis of Voice Assistant Applications was accepted by IEEE Security & Privacy Magazine (invited), 2021.</text>
