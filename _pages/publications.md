@@ -25,11 +25,11 @@ IEEE International Conference on Machine Learning and Applications (**ICMLA**), 
 
 * [COVID-19: A Pandemic of Anti-Asian Cyberhate](https://www.researchgate.net/profile/Ebuka-Okpala/publication/355115456_COVID-19_A_Pandemic_of_Anti-Asian_Cyberhate/links/6160aaa0ae47db4e57ac7fe9/COVID-19-A-Pandemic-of-Anti-Asian-Cyberhate.pdf) <br/>
 Matthew Costello, Long Cheng, Feng Luo, Hongxin Hu, **Song Liao**, Nishant Vishwamitra, Mingqi Li, and Ebuka Okpala. <br/>
-Journal of Hate Studies 2021
+Journal of Hate Studies, 2021
 
 * [Problematic Privacy Policies of Voice Assistant Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9455406) <br/>
 **Song Liao**, Christin Wilson, Long Cheng, Hongxin Hu, and Huixing Deng. <br/>
-IEEE Security & Privacy Magazine 2021
+IEEE Security & Privacy Magazine, 2021
 
 * [Measuring the Effectiveness of Privacy Policies for Voice Assistant Applications](https://dl.acm.org/doi/pdf/10.1145/3427228.3427250?casa_token=UnHyFE9kGeQAAAAA:8xXgKCX-bEyI-wZCJZWoOBQG-ohvDSn57rk6DBq_ufoGBmq4a_D4tmK2g4jGbl83ocXQ8ccDBLHuiw) <br/>
 **Song Liao**\*, Christin Wilson*, Long Cheng, Hongxin Hu, and Huixing Deng. <br/>
