@@ -22,10 +22,11 @@ I'm a fourth-year Ph.D. student at Clemson University, and I'm focusing on explo
 
 Prior to my Ph.D. studies, I earned both my bachelor's and master's degrees from Xi'an Jiaotong University, where I had the opportunity to work in the Institute of Artificial Intelligence and Robotics (IAIR) and work with Dr.Yuehu Liu.
 
+
 # News
 
-- <pap>[Paper]</pap><text> 08/2021: One paper on Policy-Violation Detection of Voice Assistant Applications was accepted by USENIX Security, 2022.</text>
-- <talk>[Talk]</talk><text> 07/2021: We presented our work on Policy-Violation Detection of Voice Assistant Applications at the FTC's [PrivacyCon 2021](https://www.ftc.gov/media/73491).</text>
+- <pap>[Paper]</pap><text> 08/2021: One paper on Policy-Violation Detection of Voice Assistant Applications was accepted by USENIX Security, 2022. </text>
+- <talk>[Talk]</talk> 07/2021: We presented our work on Policy-Violation Detection of Voice Assistant Applications at the FTC's [PrivacyCon 2021](https://www.ftc.gov/media/73491).
 - <gr>[Award]</gr><text> 05/2021: Google awarded us a bug bounty for reporting various policy-violating Google Actions.</text>
 - <pap>[Paper]</pap><text> 05/2021: One paper on Privacy Policy Analysis of Voice Assistant Applications was accepted by IEEE Security & Privacy Magazine (invited), 2021.</text>
 - <gr>[Award]</gr><text> 12/2020: Our paper received Distinguished Paper Award at the Annual Computer Security Applications Conference (ACSAC) 2020.</text>
