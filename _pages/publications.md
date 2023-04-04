@@ -38,4 +38,4 @@ Annual Computer Security Applications Conference (**ACSAC**), 2020
 
 * [Dangerous skills got certified: Measuring the trustworthiness of skill certification in voice personal assistant platforms](https://dl.acm.org/doi/pdf/10.1145/3372297.3423339) <br/>
 Long Cheng, Christin Wilson, **Song Liao**, Jeffrey Young, Daniel Dong, and Hongxin Hu. <br/>
-ACM SIGSAC Conference on Computer and Communications Security (**CCS**), 2020
+ACM Conference on Computer and Communications Security (**CCS**), 2020
