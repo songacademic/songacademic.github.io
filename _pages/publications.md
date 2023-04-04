@@ -11,7 +11,6 @@ author_profile: true
 
 
 
-### 2022
 
 * [SkillDetective: Automated Policy-Violation Detection of Voice Assistant Applications in the Wild](https://www.usenix.org/system/files/sec22-young.pdf) <br/>
 Jeffrey Young*, Song Liao*, Long Cheng, Hongxin Hu, and Huixing Deng. **Usenix Security 2022**.
