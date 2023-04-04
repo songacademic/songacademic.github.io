@@ -30,7 +30,7 @@ Prior to my Ph.D. studies, I earned both my bachelor's and master's degrees from
 - <gr>[Award]</gr><text> 05/2021: Google awarded us a bug bounty for reporting various policy-violating Google Actions.</text>
 - <pap>[Paper]</pap><text> 05/2021: One paper on Privacy Policy Analysis of Voice Assistant Applications was accepted by <b><font color="red">IEEE Security & Privacy Magazine </font></b>(invited), 2021.</text>
 - <gr>[Award]</gr><text> 12/2020: Our paper received <b><font color="red">Distinguished Paper Award</font></b> at the Annual Computer Security Applications Conference (<b><font color="red">ACSAC</font></b>) 2020.</text>
-- <gr>[Award]</gr><text> 12/2020: Google awarded us an Abuse Research Grant to support our research in abuse risks in Google products.</text>
+- <gr>[Award]</gr><text> 12/2020: Google awarded us an <b><font color="Purple">Abuse Research Grant</font></b> to support our research in abuse risks in Google products.</text>
 - <pap>[Paper]</pap><text>  09/2020: One paper on Trustworthiness of Skill Certification in Voice Personal Assistant Platforms was accepted by ACM Conference on Computer and Communications Security (<b><font color="red">CCS</font></b>), 2020.</text>
 - <pap>[Paper]</pap><text>  08/2020: One paper on Privacy Policy Analysis for Voice Assistant Applications was accepted by The Annual Computer Security Applications Conference (<b><font color="red">ACSAC</font></b>) 2020.</text>
 - <talk>[Talk]</talk><text>  08/2020: We presented our work on Trustworthiness of Skill Certification in Voice Personal Assistant Platforms at the FTC's <a href = "https://www.ftc.gov/news-events/events/2020/07/privacycon-2020">PrivacyCon 2020.</a></text>
