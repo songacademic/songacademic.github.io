@@ -31,7 +31,7 @@ IEEE International Conference on Machine Learning and Applications (**ICMLA**), 
 Matthew Costello, Long Cheng, Feng Luo, Hongxin Hu, **Song Liao**, Nishant Vishwamitra, Mingqi Li, and Ebuka Okpala. <br/>
 Journal of Hate Studies, 2021
 
-* [Measuring the Effectiveness of Privacy Policies for Voice Assistant Applications](https://dl.acm.org/doi/pdf/10.1145/3427228.3427250?casa_token=UnHyFE9kGeQAAAAA:8xXgKCX-bEyI-wZCJZWoOBQG-ohvDSn57rk6DBq_ufoGBmq4a_D4tmK2g4jGbl83ocXQ8ccDBLHuiw) <br/>
+* [Measuring the Effectiveness of Privacy Policies for Voice Assistant Applications](https://songacademic.github.io/files/2020_ACSAC_Privacy%20Policy%20Analysis.pdf) <br/>
 **Song Liao**\*, Christin Wilson*, Long Cheng, Hongxin Hu, and Huixing Deng. <br/>
 <b><font color="red">Distinguish paper award</font></b><br/>
 Annual Computer Security Applications Conference (**ACSAC**), 2020
