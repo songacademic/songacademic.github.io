@@ -15,6 +15,10 @@ imp {color:Red}
 
 **Voice Personal Assistant (VPA)**
 
+* [SkillScanner: Detecting Policy-Violating Voice Applications Through Static Analysis at the Development Phase]() <br/>
+**Song Liao**, Long Cheng, Haipeng Cai, Linke Guo, and Hongxin Hu. <br/>
+ACM Conference on Computer and Communications Security (**CCS**), 2023
+
 * [SkillDetective: Automated Policy-Violation Detection of Voice Assistant Applications in the Wild](https://songacademic.github.io/files/2022_Security_SkillDetective.pdf) <br/>
 Jeffrey Young\*, **Song Liao**\*, Long Cheng, Hongxin Hu, and Huixing Deng. <br/>
 USENIX Security Symposium (**USENIX Security**), 2022
