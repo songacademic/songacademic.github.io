@@ -33,7 +33,7 @@ Prior to my Ph.D. studies, I earned both my bachelor's and master's degrees from
 - <gr>[Award]</gr><text> 12/2020: Our paper received <b><font color="red">Distinguished Paper Award</font></b> at the Annual Computer Security Applications Conference (<b><font color="red">ACSAC 2020</font></b>).</text>
 - <gr>[Award]</gr><text> 12/2020: Google awarded us an <font color="Purple">Abuse Research Grant</font> to support our research in abuse risks in Google products.</text>
 - <pap>[Paper]</pap><text>  09/2020: One paper on <b>Trustworthiness of Skill Certification in Voice Assistant Platforms</b> was accepted by <b><font color="red">CCS 2020</font></b>.</text>
-- <pap>[Paper]</pap><text>  08/2020: One paper on <b>Privacy Policy Analysis for Voice Assistant Applications</b> was accepted by <b><font color="red">ACSAC 2020</font></b>.</text>
+- <pap>[Paper]</pap><text>  08/2020: One paper on <b>Privacy Policy Analysis of Voice Assistant Applications</b> was accepted by <b><font color="red">ACSAC 2020</font></b>.</text>
 - <talk>[Talk]</talk><text>  08/2020: We presented our work on Trustworthiness of Skill Certification in Voice Personal Assistant Platforms at the FTC's <a href = "https://www.ftc.gov/news-events/events/2020/07/privacycon-2020">PrivacyCon 2020.</a></text>
 - <gr>[Award]</gr><text> 08/2020: Google awarded us another <font color="Purple">bug bounty</font> for discovering abuse risks of Google Actions.</text>
 - <me>[Media]</me><text>  07/2020: <a href = "https://www.theregister.com/2020/07/29/amazon_google_voice_apps/">The Register</a> and some others reported our work on measuring the ineffectiveness of privacy policies for voice-apps.</text>
