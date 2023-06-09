@@ -30,7 +30,7 @@ Prior to my Ph.D. studies, I earned both my bachelor's and master's degrees from
 - <talk>[Talk]</talk><text> 07/2021: We presented our work on Policy-Violation Detection of Voice Assistant Applications at the FTC's <a href = "https://www.ftc.gov/media/73491">PrivacyCon 2021</a>. </text>
 - <gr>[Award]</gr><text> 05/2021: Google awarded us a <font color="Purple">bug bounty</font> for reporting various policy-violating Google Actions.</text>
 - <pap>[Paper]</pap><text> 05/2021: One paper on Privacy Policy Analysis of Voice Assistant Applications was accepted by <b><font color="red">IEEE Security & Privacy Magazine 2021</font></b>(invited).</text>
-- <gr>[Award]</gr><text> 12/2020: Our paper received <b><font color="red">Distinguished Paper Award</font></b> at the Annual Computer Security Applications Conference (<b><font color="red">ACSAC 2020</font></b>).</text>
+- <gr>[Award]</gr><text> 12/2020: Our paper received <b><font color="red">Distinguished Paper Award</font></b> at the <b><font color="red">ACSAC 2020</font></b>.</text>
 - <gr>[Award]</gr><text> 12/2020: Google awarded us an <font color="Purple">Abuse Research Grant</font> to support our research in abuse risks in Google products.</text>
 - <pap>[Paper]</pap><text>  09/2020: One paper on <b>Trustworthiness of Skill Certification in Voice Assistant Platforms</b> was accepted by <b><font color="red">CCS 2020</font></b>.</text>
 - <pap>[Paper]</pap><text>  08/2020: One paper on <b>Privacy Policy Analysis of Voice Assistant Applications</b> was accepted by <b><font color="red">ACSAC 2020</font></b>.</text>
