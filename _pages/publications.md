@@ -45,7 +45,7 @@ ACM Conference on Computer and Communications Security (**CCS**), 2020
 International Conference on Knowledge Discovery and Data Mining (**KDD**) (Applied Data Science track), 2023
 
         
-* [COVID-19 and Sinophobia: Detecting Warning Signs of Radicalization on Twitter and Reddit](https://github.com/songacademic/songacademic.github.io/blob/master/files/2023_COVID-19%20and%20Sinophobia%20Detecting%20Warning%20Signs%20of%20Radicalization%20on%20Twitter%20and%20Reddit.pdf) <br/>
+* [COVID-19 and Sinophobia: Detecting Warning Signs of Radicalization on Twitter and Reddit](https://songacademic.github.io/files/2023_COVID-19%20and%20Sinophobia%20Detecting%20Warning%20Signs%20of%20Radicalization%20on%20Twitter%20and%20Reddit.pdf) <br/>
 Matthew Costello, Nishant Vishwamitra, **Song Liao**, Long Cheng, Feng Luo, and Hongxin Hu. <br/>
 Cyberpsychology, Behavior, and Social Networking, 2023
 
