@@ -40,9 +40,10 @@ ACM Conference on Computer and Communications Security (**CCS**), 2020
 
 **Twitter Data Analysis**
 
-* [Analysis of COVID-19 Offensive Tweets and Their Targets](https://songacademic.github.io/files/2023_KDD_Covid.pdf) <br/>
+* [Analysis of COVID-19 Offensive Tweets and Their Targets](https://songacademic.github.io/files/2023_KDD_OffensiveTweetAnalysis.pdf) <br/>
 **Song Liao**, Ebuka Okpala, Long Cheng, Nishant Vishwamitra, Mingqi Li, Hongxin Hu, Feng Luo, and Matthew Costello <br/>
 International Conference on Knowledge Discovery and Data Mining (**KDD**) (Applied Data Science track), 2023
+
         
 * [COVID-19 and Sinophobia: Detecting Warning Signs of Radicalization on Twitter and Reddit](https://songacademic.github.io/files/2023_CyberPsychology_Covid.pdf) <br/>
 Matthew Costello, Nishant Vishwamitra, **Song Liao**, Long Cheng, Feng Luo, and Hongxin Hu. <br/>
