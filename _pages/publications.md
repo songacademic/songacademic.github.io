@@ -29,8 +29,8 @@ IEEE Security & Privacy Magazine, 2021
 
 * [Measuring the Effectiveness of Privacy Policies for Voice Assistant Applications](https://songacademic.github.io/files/2020_ACSAC_Privacy%20Policy%20Analysis.pdf) <br/>
 **Song Liao**\*, Christin Wilson*, Long Cheng, Hongxin Hu, and Huixing Deng. <br/>
+Annual Computer Security Applications Conference (**ACSAC**), 2020<br/>
 <b><font color="red">Distinguish paper award</font></b><br/>
-Annual Computer Security Applications Conference (**ACSAC**), 2020
 
 * [Dangerous skills got certified: Measuring the trustworthiness of skill certification in voice personal assistant platforms](https://songacademic.github.io/files/2020_CCS_VPA_Measurement.pdf) <br/>
 Long Cheng, Christin Wilson, **Song Liao**, Jeffrey Young, Daniel Dong, and Hongxin Hu. <br/>
