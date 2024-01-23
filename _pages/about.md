@@ -26,6 +26,7 @@ Prior to my Ph.D. studies, I earned both my bachelor's and master's degrees from
 
 
 # News
+- <pap>[Paper]</pap><text> 01/2024: One paper on <b> Understanding GDPR Non-Compliance in Privacy Policies of Voice Assistant Applications</b> was accepted by <b><font color="red">WWW 2024</font></b>. </text>
 - <pap>[Paper]</pap><text> 05/2023: One paper on <b>Static Code Analysis of Voice Assistant Applications</b> was accepted by <b><font color="red">CCS 2023</font></b>. </text>
 - <pap>[Paper]</pap><text> 05/2023: One paper on <b>Tweet Data Analysis</b> was accepted by <b><font color="red">KDD 2023</font></b>. </text>
 - <pap>[Paper]</pap><text> 08/2021: One paper on <b>Policy-Violation Detection of Voice Assistant Applications</b> was accepted by <b><font color="red">USENIX Security 2022</font></b>. </text>
