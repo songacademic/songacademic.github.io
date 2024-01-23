@@ -15,6 +15,11 @@ imp {color:Red}
 
 **Voice Personal Assistant (VPA)**
 
+* [Understanding GDPR Non-Compliance in Privacy Policies of Alexa Skills in European Marketplaces]() <br/>
+**Song Liao**, Mohammed Aldeen, Jingwen Yan, Long Cheng, Xiapu Luo, Haipeng Cai, Hongxin Hu. <br/>
+The Web Conference (**WWW**), 2024
+
+
 * [SkillScanner: Detecting Policy-Violating Voice Applications Through Static Analysis at the Development Phase](https://songacademic.github.io/files/2023_CCS_SkillScanner.pdf) <br/>
 **Song Liao**, Long Cheng, Haipeng Cai, Linke Guo, and Hongxin Hu. <br/>
 ACM Conference on Computer and Communications Security (**CCS**), 2023
