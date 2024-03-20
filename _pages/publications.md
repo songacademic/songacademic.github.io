@@ -15,7 +15,7 @@ imp {color:Red}
 
 **Voice Personal Assistant (VPA)**
 
-* [Understanding GDPR Non-Compliance in Privacy Policies of Alexa Skills in European Marketplaces](https://github.com/songacademic/songacademic.github.io/blob/master/files/2024_WWW_PrivacyPolicyAnalysis_GDPR.pdf) <br/>
+* [Understanding GDPR Non-Compliance in Privacy Policies of Alexa Skills in European Marketplaces](https://songacademic.github.io/files/2024_WWW_PrivacyPolicyAnalysis_GDPR.pdf) <br/>
 **Song Liao**, Mohammed Aldeen, Jingwen Yan, Long Cheng, Xiapu Luo, Haipeng Cai, Hongxin Hu. <br/>
 The Web Conference (**WWW**), 2024
 
@@ -54,7 +54,7 @@ ACM Conference on Computer and Communications Security (**CCS**), 2020
 **Song Liao**, Ebuka Okpala, Long Cheng, Nishant Vishwamitra, Mingqi Li, Hongxin Hu, Feng Luo, and Matthew Costello <br/>
 International Conference on Knowledge Discovery and Data Mining (**KDD**) (Applied Data Science track), 2023
 
-* [Understanding and Analyzing COVID-19-related Online Hate Propagation Through Hateful Memes Shared on Twitter](https://github.com/songacademic/songacademic.github.io/blob/master/files/2023_ASONAM_COVID_hateful_memer.pdf) <br/>
+* [Understanding and Analyzing COVID-19-related Online Hate Propagation Through Hateful Memes Shared on Twitter](https://songacademic.github.io/files/2023_ASONAM_COVID_hateful_memer.pdf) <br/>
 Nishant Vishwamitra, Keyan Guo, **Song Liao**, Jaden Mu, Zheyuan Ma, Long Cheng, Ziming Zhao, Hongxin Hu. <br/>
 International Conference on Advances in Social Networks Analysis and Mining (**ASONAM**), 2023
 
