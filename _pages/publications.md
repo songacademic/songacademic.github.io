@@ -42,7 +42,7 @@ IEEE Security & Privacy Magazine, 2021
 Annual Computer Security Applications Conference (**ACSAC**), 2020<br/>
 <b><font color="red">Distinguish paper award</font></b><br/>
 
-* [Dangerous skills got certified: Measuring the trustworthiness of skill certification in voice personal assistant platforms](https://songacademic.github.io/files/2020_CCS_VPA_Measurement.pdf) <br/>
+* [Dangerous Skills Got Certified: Measuring the Trustworthiness of Skill Certification in Voice Personal Assistant Platforms](https://songacademic.github.io/files/2020_CCS_VPA_Measurement.pdf) <br/>
 Long Cheng, Christin Wilson, **Song Liao**, Jeffrey Young, Daniel Dong, and Hongxin Hu. <br/>
 ACM Conference on Computer and Communications Security (**CCS**), 2020
 
