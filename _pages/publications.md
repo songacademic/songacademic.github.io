@@ -15,9 +15,14 @@ imp {color:Red}
 
 **Voice Personal Assistant (VPA)**
 
-* [Understanding GDPR Non-Compliance in Privacy Policies of Alexa Skills in European Marketplaces]() <br/>
+* [Understanding GDPR Non-Compliance in Privacy Policies of Alexa Skills in European Marketplaces](https://github.com/songacademic/songacademic.github.io/blob/master/files/2024_WWW_PrivacyPolicyAnalysis_GDPR.pdf) <br/>
 **Song Liao**, Mohammed Aldeen, Jingwen Yan, Long Cheng, Xiapu Luo, Haipeng Cai, Hongxin Hu. <br/>
 The Web Conference (**WWW**), 2024
+
+
+* [Command Hijacking on Voice-Controlled IoT in Amazon Alexa  Platform]() <br/>
+Wenbo Ding, **Song Liao**, Long Cheng, Xianghang Mi, Ziming Zhao, Hongxin Hu. <br/>
+ACM ASIA Conference on Computer and Communications Security (**ASIACCS**), 2024
 
 
 * [SkillScanner: Detecting Policy-Violating Voice Applications Through Static Analysis at the Development Phase](https://songacademic.github.io/files/2023_CCS_SkillScanner.pdf) <br/>
@@ -43,11 +48,15 @@ ACM Conference on Computer and Communications Security (**CCS**), 2020
 
 <br/>
 
-**Twitter Data Analysis**
+**Online Abuse Detection
 
 * [Analysis of COVID-19 Offensive Tweets and Their Targets](https://songacademic.github.io/files/2023_KDD_OffensiveTweetAnalysis.pdf) <br/>
 **Song Liao**, Ebuka Okpala, Long Cheng, Nishant Vishwamitra, Mingqi Li, Hongxin Hu, Feng Luo, and Matthew Costello <br/>
 International Conference on Knowledge Discovery and Data Mining (**KDD**) (Applied Data Science track), 2023
+
+* [Understanding and Analyzing COVID-19-related Online Hate Propagation Through Hateful Memes Shared on Twitter](https://github.com/songacademic/songacademic.github.io/blob/master/files/2023_ASONAM_COVID_hateful_memer.pdf) <br/>
+Nishant Vishwamitra, Keyan Guo, **Song Liao**, Jaden Mu, Zheyuan Ma, Long Cheng, Ziming Zhao, Hongxin Hu. <br/>
+International Conference on Advances in Social Networks Analysis and Mining (**ASONAM**), 2023
 
         
 * [COVID-19 and Sinophobia: Detecting Warning Signs of Radicalization on Twitter and Reddit](https://songacademic.github.io/files/2023_COVID-19%20and%20Sinophobia%20Detecting%20Warning%20Signs%20of%20Radicalization%20on%20Twitter%20and%20Reddit.pdf) <br/>
