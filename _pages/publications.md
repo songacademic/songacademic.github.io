@@ -52,7 +52,7 @@ ACM Conference on Computer and Communications Security (**CCS**), 2020
 
 * [Analysis of COVID-19 Offensive Tweets and Their Targets](https://songacademic.github.io/files/2023_KDD_OffensiveTweetAnalysis.pdf) <br/>
 **Song Liao**, Ebuka Okpala, Long Cheng, Nishant Vishwamitra, Mingqi Li, Hongxin Hu, Feng Luo, and Matthew Costello <br/>
-International Conference on Knowledge Discovery and Data Mining (**KDD**) (Applied Data Science track), 2023
+International Conference on Knowledge Discovery and Data Mining (**KDD**), 2023
 
 * [Understanding and Analyzing COVID-19-related Online Hate Propagation Through Hateful Memes Shared on Twitter](https://songacademic.github.io/files/2023_ASONAM_COVID_hateful_memer.pdf) <br/>
 Nishant Vishwamitra, Keyan Guo, **Song Liao**, Jaden Mu, Zheyuan Ma, Long Cheng, Ziming Zhao, Hongxin Hu. <br/>
