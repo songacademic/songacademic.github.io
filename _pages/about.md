@@ -26,17 +26,17 @@ Prior to my Ph.D. studies, I earned both my bachelor's and master's degrees from
 
 
 # News
-- <pap>[Paper]</pap><text> 03/2024: One paper on <b> IoT Voice Applications Analysis</b> was accepted by <b><font color="red">AsiaCCS 2024</font></b>. </text>
-- <pap>[Paper]</pap><text> 01/2024: One paper on <b> Understanding GDPR Non-Compliance in Privacy Policies of Voice Assistant Applications</b> was accepted by <b><font color="red">WWW 2024</font></b>. </text>
-- <pap>[Paper]</pap><text> 05/2023: One paper on <b>Static Code Analysis of Voice Assistant Applications</b> was accepted by <b><font color="red">CCS 2023</font></b>. </text>
-- <pap>[Paper]</pap><text> 05/2023: One paper on <b>Tweet Data Analysis</b> was accepted by <b><font color="red">KDD 2023</font></b>. </text>
-- <pap>[Paper]</pap><text> 08/2021: One paper on <b>Policy-Violation Detection of Voice Assistant Applications</b> was accepted by <b><font color="red">USENIX Security 2022</font></b>. </text>
+- <pap>[Paper]</pap><text> 03/2024: One paper on IoT Voice Applications Analysis was accepted by <b><font color="red">AsiaCCS 2024</font></b>. </text>
+- <pap>[Paper]</pap><text> 01/2024: One paper on Understanding GDPR Non-Compliance in Privacy Policies of Voice Assistant Applications was accepted by <b><font color="red">WWW 2024</font></b>. </text>
+- <pap>[Paper]</pap><text> 05/2023: One paper on Static Code Analysis of Voice Assistant Applications was accepted by <b><font color="red">CCS 2023</font></b>. </text>
+- <pap>[Paper]</pap><text> 05/2023: One paper on Tweet Data Analysis was accepted by <b><font color="red">KDD 2023</font></b>. </text>
+- <pap>[Paper]</pap><text> 08/2021: One paper on Policy-Violation Detection of Voice Assistant Applications was accepted by <b><font color="red">USENIX Security 2022</font></b>. </text>
 - <talk>[Talk]</talk><text> 07/2021: We presented our work on Policy-Violation Detection of Voice Assistant Applications at the FTC's <a href = "https://www.ftc.gov/media/73491">PrivacyCon 2021</a>. </text>
 - <pap>[Paper]</pap><text> 05/2021: One paper on Privacy Policy Analysis of Voice Assistant Applications was accepted by <font color="red">IEEE Security & Privacy Magazine 2021</font> (invited).</text>
 - <gr>[Award]</gr><text> 12/2020: Our paper received <font color="red">Distinguished Paper Award</font> at the <b><font color="red">ACSAC 2020</font></b>.</text>
-- <gr>[Award]</gr><text> 12/2020: Google awarded us an <font color="Purple">Abuse Research Grant</font> to support our research in abuse risks in Google products.</text>
-- <pap>[Paper]</pap><text>  09/2020: One paper on <b>Trustworthiness of Skill Certification in Voice Assistant Platforms</b> was accepted by <b><font color="red">CCS 2020</font></b>.</text>
-- <pap>[Paper]</pap><text>  08/2020: One paper on <b>Privacy Policy Analysis of Voice Assistant Applications</b> was accepted by <b><font color="red">ACSAC 2020</font></b>.</text>
+- <gr>[Award]</gr><text> 12/2020: Google awarded us an <font color="Purple">Abuse Research Grant</font> to support our research on abuse risks in Google products.</text>
+- <pap>[Paper]</pap><text>  09/2020: One paper on Trustworthiness of Skill Certification in Voice Assistant Platforms was accepted by <b><font color="red">CCS 2020</font></b>.</text>
+- <pap>[Paper]</pap><text>  08/2020: One paper on Privacy Policy Analysis of Voice Assistant Applications was accepted by <b><font color="red">ACSAC 2020</font></b>.</text>
 - <talk>[Talk]</talk><text>  08/2020: We presented our work on Trustworthiness of Skill Certification in Voice Personal Assistant Platforms at the FTC's <a href = "https://www.ftc.gov/news-events/events/2020/07/privacycon-2020">PrivacyCon 2020.</a></text>
 - <me>[Media]</me><text>  07/2020: <a href = "https://www.theregister.com/2020/07/29/amazon_google_voice_apps/">The Register</a> and some others reported our work on measuring the ineffectiveness of privacy policies for voice-apps.</text>
 - <gr>[Award]</gr><text> 07/2020: Google awarded us $5,000 <font color="Purple">bug bounty</font> for discovering vulnerabilities of Google Actions.</text>
