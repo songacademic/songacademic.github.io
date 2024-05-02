@@ -18,7 +18,7 @@ text { color:#494e52;}
 </style>
 
 
-I'm a fifth-year Ph.D. student at Clemson University, and I'm focusing on exploring the security and privacy of Voice Personal Assistant (VPA), such as Amazon Alexa and Google Assistant. I consider myself fortunate to have the opportunity to work under the guidance of Dr. [Long Cheng](https://people.computing.clemson.edu/~lcheng2/), whose expertise and guidance have been invaluable to my work.
+I'm a last-year Ph.D. student at Clemson University, and my research interests include IoT security/privacy and online abuse detection. Specifically, my work is focused on exploring the security and privacy of Voice Personal Assistants (VPA), such as Amazon Alexa and Google Assistant. I consider myself fortunate to have the opportunity to work under the guidance of Dr. [Long Cheng](https://people.computing.clemson.edu/~lcheng2/), whose expertise and guidance have been invaluable to my work.
 
 Prior to my Ph.D. studies, I earned both my bachelor's and master's degrees from Xi'an Jiaotong University, where I had the opportunity to work in the Institute of Artificial Intelligence and Robotics (IAIR) and work with Dr.Yuehu Liu.
 
