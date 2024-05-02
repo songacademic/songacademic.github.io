@@ -22,7 +22,7 @@ I'm a last-year Ph.D. student at Clemson University, and my research interests i
 
 Prior to my Ph.D. studies, I earned both my bachelor's and master's degrees from Xi'an Jiaotong University, where I had the opportunity to work in the Institute of Artificial Intelligence and Robotics (IAIR) and work with Dr.Yuehu Liu.
 
-<font color="red">I will join Texas Tech University as an Assistant Professor in Fall 2024. I am looking for self-motivated Ph.D. students. Please email me your CV if you are interested in my work.</font><br/>
+<font color="red">I will join the Department of Computer Science at Texas Tech University as a Tenure-Track Assistant Professor in Fall 2024. I am looking for self-motivated Ph.D. students. Please email me your CV if you are interested in my work.</font><br/>
 
 
 
