@@ -27,6 +27,8 @@ Prior to my Ph.D. studies, I earned both my bachelor's and master's degrees from
 
 
 # News
+- <pap>[Paper]</pap><text> 07/2024: One paper on understanding Security and Privacy Risks in the RapidAPI Ecosystem was accepted by <b><font color="red">CCS 2024</font></b>.</text>
+- <pap>[Paper]</pap><text> 07/2024: One paper on Voice Assistant Application User Review Analysis was accepted by <b><font color="red">UbiComp 2024</font></b>. </text>
 - <pap>[Paper]</pap><text> 03/2024: One paper on IoT Voice Applications Analysis was accepted by <b><font color="red">AsiaCCS 2024</font></b>. </text>
 - <pap>[Paper]</pap><text> 01/2024: One paper on Understanding GDPR Non-Compliance in Privacy Policies of Voice Assistant Applications was accepted by <b><font color="red">WWW 2024</font></b>. </text>
 - <pap>[Paper]</pap><text> 05/2023: One paper on Static Code Analysis of Voice Assistant Applications was accepted by <b><font color="red">CCS 2023</font></b>. </text>
