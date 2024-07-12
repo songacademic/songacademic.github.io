@@ -15,6 +15,11 @@ imp {color:Red}
 
 **Voice Personal Assistant (VPA)**
 
+
+* [A First Look at Security and Privacy Risks in the RapidAPI Ecosystem]()<br/>
+**Song Liao**, Long Cheng, Xiapu Luo, Zheng Song, Haipeng Cai, Danfeng (Daphne) Yao, Hongxin Hu. <br/>
+ACM Conference on Computer and Communications Security (**CCS**), 2024
+
 * [Understanding GDPR Non-Compliance in Privacy Policies of Alexa Skills in European Marketplaces](https://songacademic.github.io/files/2024_WWW_PrivacyPolicyAnalysis_GDPR.pdf) <br/>
 **Song Liao**, Mohammed Aldeen, Jingwen Yan, Long Cheng, Xiapu Luo, Haipeng Cai, Hongxin Hu. <br/>
 The Web Conference (**WWW**), 2024
