@@ -25,7 +25,7 @@ ACM Conference on Computer and Communications Security (**CCS**), 2024
 The Web Conference (**WWW**), 2024
 
 
-* [Command Hijacking on Voice-Controlled IoT in Amazon Alexa  Platform]() <br/>
+* [Command Hijacking on Voice-Controlled IoT in Amazon Alexa  Platform](https://songacademic.github.io/files/2024_AsiaCCS_IoT_Attack.pdf) <br/>
 Wenbo Ding, **Song Liao**, Long Cheng, Xianghang Mi, Ziming Zhao, Hongxin Hu. <br/>
 ACM ASIA Conference on Computer and Communications Security (**ASIACCS**), 2024
 
