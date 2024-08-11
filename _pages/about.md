@@ -17,12 +17,11 @@ talk { color:Pink;}
 text { color:#494e52;}
 </style>
 
+I am a Tenure-Track Assistant Professor in the Department of Computer Science at Texas Tech University. My research interests include IoT security/privacy and data science. Specifically, my work is focused on exploring the security and privacy of Voice Personal Assistants (VPA), such as Amazon Alexa and Google Assistant.
 
-I'm a last-year Ph.D. student at Clemson University, and my research interests include IoT security/privacy and online abuse detection. Specifically, my work is focused on exploring the security and privacy of Voice Personal Assistants (VPA), such as Amazon Alexa and Google Assistant. I consider myself fortunate to have the opportunity to work under the guidance of Dr. [Long Cheng](https://people.computing.clemson.edu/~lcheng2/), whose expertise and guidance have been invaluable to my work.
+I earned my Ph.D. from Clemson University, where I had the privilege of working under the guidance of Dr. [Long Cheng](https://people.computing.clemson.edu/~lcheng2/). Before pursuing my Ph.D., I completed both my bachelor's and master's degrees at Xi'an Jiaotong University, where I conducted research at the Institute of Artificial Intelligence and Robotics (IAIR) under the mentorship of Dr. Yuehu Liu.
 
-Prior to my Ph.D. studies, I earned both my bachelor's and master's degrees from Xi'an Jiaotong University, where I had the opportunity to work in the Institute of Artificial Intelligence and Robotics (IAIR) and work with Dr.Yuehu Liu.
-
-<font color="red">I will join the Department of Computer Science at Texas Tech University as a Tenure-Track Assistant Professor in Fall 2024. I am looking for self-motivated Ph.D. students. Please email me your CV if you are interested in my work.</font><br/>
+<font color="red"> I am looking for self-motivated Ph.D. students. Please email me your CV if you are interested in my work.</font><br/>
 
 
 
