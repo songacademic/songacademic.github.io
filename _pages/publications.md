@@ -15,6 +15,9 @@ imp {color:Red}
 
 **Voice Personal Assistant (VPA)**
 
+* [SkillPoV: Towards Accessible and Effective Privacy Notice for Amazon Alexa skills]()<br/>
+Jingwen Yan\*, **Song Liao**\*, Mohammed Aldeen, Luyi Xing, Danfeng (Daphne) Yao, Long Cheng. <br/>
+Network and Distributed System Security Symposium (**NDSS**), 2025
 
 * [A First Look at Security and Privacy Risks in the RapidAPI Ecosystem]()<br/>
 **Song Liao**, Long Cheng, Xiapu Luo, Zheng Song, Haipeng Cai, Danfeng (Daphne) Yao, Hongxin Hu. <br/>
@@ -24,11 +27,13 @@ ACM Conference on Computer and Communications Security (**CCS**), 2024
 **Song Liao**, Mohammed Aldeen, Jingwen Yan, Long Cheng, Xiapu Luo, Haipeng Cai, Hongxin Hu. <br/>
 The Web Conference (**WWW**), 2024
 
+* [End-Users Know Best: Identifying Undesired Behavior of Alexa Skills Through User Review Analysis]() <br/>
+Mohammed Aldeen, Jeffrey Young, **Song Liao**, Tsu-Yao Chang, Long Cheng, Haipeng Cai, Xiapu Luo, Hongxin Hu. <br/>
+ACM Interactive, Mobile, Wearable, and Ubiquitous Technologies (IMWUT/UBICOMP) (**UbiComp**), 2024
 
 * [Command Hijacking on Voice-Controlled IoT in Amazon Alexa  Platform](https://songacademic.github.io/files/2024_AsiaCCS_IoT_Attack.pdf) <br/>
 Wenbo Ding, **Song Liao**, Long Cheng, Xianghang Mi, Ziming Zhao, Hongxin Hu. <br/>
 ACM ASIA Conference on Computer and Communications Security (**ASIACCS**), 2024
-
 
 * [SkillScanner: Detecting Policy-Violating Voice Applications Through Static Analysis at the Development Phase](https://songacademic.github.io/files/2023_CCS_SkillScanner.pdf) <br/>
 **Song Liao**, Long Cheng, Haipeng Cai, Linke Guo, and Hongxin Hu. <br/>
