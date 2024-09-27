@@ -26,7 +26,7 @@ I earned my Ph.D. from Clemson University, where I had the privilege of working 
 
 
 # News
-- <pap>[Paper]</pap><text> 07/2024: One paper on Acoustic Privacy Notice for Voice Applications was accepted by <b><font color="red">NDSS 2025</font></b>.</text>
+- <pap>[Paper]</pap><text> 09/2024: One paper on Acoustic Privacy Notice for Voice Applications was accepted by <b><font color="red">NDSS 2025</font></b>.</text>
 - <pap>[Paper]</pap><text> 07/2024: One paper on understanding Security and Privacy Risks in the RapidAPI Ecosystem was accepted by <b><font color="red">CCS 2024</font></b>.</text>
 - <pap>[Paper]</pap><text> 07/2024: One paper on Voice Assistant Application User Review Analysis was accepted by <b><font color="red">UbiComp 2024</font></b>. </text>
 - <pap>[Paper]</pap><text> 03/2024: One paper on IoT Voice Assistant Applications Analysis was accepted by <b><font color="red">AsiaCCS 2024</font></b>. </text>
