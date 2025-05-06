@@ -26,6 +26,8 @@ I earned my Ph.D. from Clemson University, where I had the privilege of working 
 
 
 # News
+
+- <ser>[Service]</ser><text> 04/2025: I will serve as a TPC Member for <a href = "https://www.acsac.org/">ACSAC 2025</a> and <a href = "https://www.ndss-symposium.org/ndss2026/">NDSS 2026</a>. </text>
 - <pap>[Paper]</pap><text> 09/2024: One paper on Acoustic Privacy Notice for Voice Applications was accepted by <b><font color="red">NDSS 2025</font></b>.</text>
 - <pap>[Paper]</pap><text> 07/2024: One paper on understanding Security and Privacy Risks in the RapidAPI Ecosystem was accepted by <b><font color="red">CCS 2024</font></b>.</text>
 - <pap>[Paper]</pap><text> 07/2024: One paper on Voice Assistant Application User Review Analysis was accepted by <b><font color="red">UbiComp 2024</font></b>. </text>
