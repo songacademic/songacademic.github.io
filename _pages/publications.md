@@ -13,9 +13,15 @@ imp {color:Red}
 [[Google Scholar](https://scholar.google.com/citations?user=bWD6O90AAAAJ&hl=en)] (\*Equal Contribution)
 
 
-**Voice Personal Assistant (VPA)**
 
-* [SkillPoV: Towards Accessible and Effective Privacy Notice for Amazon Alexa skills]()<br/>
+
+**Privacy Compliance and Voice Personal Assistant (VPA)**
+
+* [No Way to Sign Out? Unpacking Non-Compliance with Google Play’s App Account Deletion Requirements]()<br/>
+Jingwen Yan, **Song Liao**, Jin Ma, Mohammed Aldeen, Salish Kumar, Long Cheng. <br/>
+USENIX Security Symposium (**USENIX Security**), 2025
+
+* [SkillPoV: Towards Accessible and Effective Privacy Notice for Amazon Alexa skills](https://www.ndss-symposium.org/wp-content/uploads/2025-677-paper.pdf)<br/>
 Jingwen Yan\*, **Song Liao**\*, Mohammed Aldeen, Luyi Xing, Danfeng (Daphne) Yao, Long Cheng. <br/>
 Network and Distributed System Security Symposium (**NDSS**), 2025
 
