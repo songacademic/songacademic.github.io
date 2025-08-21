@@ -26,7 +26,7 @@ I earned my Ph.D. from Clemson University, where I had the privilege of working 
 
 
 # News
-- <pap>[People]</pap><text> 08/2025: Weiliang and Huan joined our group. Welcome! </font></b>.</text>
+- <pap>[People]</pap><text> 08/2025: Weiliang and Huan joined our group. Welcome! </font></b></text>
 - <pap>[Paper]</pap><text> 06/2025: One paper on Google Play App Account Deletion was accepted by <b><font color="red">USENIX Security 2025 </font></b>.</text>
 - <ser>[Service]</ser><text> 04/2025: I will serve as a TPC Member for <a href = "https://www.acsac.org/">ACSAC 2025</a> and <a href = "https://www.ndss-symposium.org/ndss2026/">NDSS 2026</a>. </text>
 - <pap>[Paper]</pap><text> 09/2024: One paper on Acoustic Privacy Notice for Voice Applications was accepted by <b><font color="red">NDSS 2025</font></b>.</text>
