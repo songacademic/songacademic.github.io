@@ -26,6 +26,7 @@ I earned my Ph.D. from Clemson University, where I had the privilege of working 
 
 
 # News
+- <talk>[People]</talk><text> 08/2025: Congrats to Huan for winning the Project ENRICH Scholarship Program from TTU!</text>
 - <talk>[People]</talk><text> 08/2025: Weiliang and Huan joined our group. Welcome!</text>
 - <pap>[Paper]</pap><text> 06/2025: One paper on Google Play App Account Deletion was accepted by <b><font color="red">USENIX Security 2025 </font></b>.</text>
 - <ser>[Service]</ser><text> 04/2025: I will serve as a TPC Member for <a href = "https://www.acsac.org/">ACSAC 2025</a> and <a href = "https://www.ndss-symposium.org/ndss2026/">NDSS 2026</a>. </text>
