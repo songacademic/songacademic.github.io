@@ -28,8 +28,10 @@ I am actively seeking motivated Ph.D. students interested in the security and co
 
 
 # News
+- <gr>[Grant]</gr><text> 08/2026: The proposal "CyberAI Innovation: Securing and Leveraging Agentic AI for Cyber Defense" was awarded by the NSF <a href = "https://www.nsf.gov/awardsearch/show-award?AWD_ID=2623261">CyberAI</a> program. Thanks, NSF!</text>
 - <pap>[Paper]</pap><text> 08/2026: One paper on Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics was accepted by <font color="red">CIKM 2026</font>. Congrats to Weiliang!</text>
 - <pap>[Paper]</pap><text> 06/2026: One paper on Diffusion-Aware Error Correction Code Watermarking Framework was accepted by <font color="red">SMC 2026</font>. Congrats to Huan!</text>
+- <ser>[Service]</ser><text> 05/2026: I will serve as a TPC Member for <a href = "https://www.acsac.org/">ACSAC 2026</a>, <a href = "https://www.ndss-symposium.org/ndss2027/">NDSS 2027</a>, and  <a href = "https://www.usenix.org/conference/usenixsecurity27">Usenix Security 2027</a>. </text>
 - <pap>[Paper]</pap><text> 01/2026: One paper on Adversarial Attacks on Differentially Private Factorization Machines in Recommendation Systems was accepted by <font color="red">SACMAT 2026</font>. Congrats to Felix!</text>
 - <talk>[People]</talk><text> 08/2025: Congrats to Huan for winning the Project ENRICH Scholarship Program from TTU!</text>
 - <talk>[People]</talk><text> 08/2025: Weiliang and Huan joined our group. Welcome!</text>
