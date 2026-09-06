@@ -10,19 +10,30 @@ imp {color:Red}
 
 {% include base_path %}
 
-[[Google Scholar](https://scholar.google.com/citations?user=bWD6O90AAAAJ&hl=en)] (\*Equal Contribution)
+[[Google Scholar](https://scholar.google.com/citations?user=bWD6O90AAAAJ&hl=en)] (\* Denotes equal contribution, \_ Denotes students advised by me)
 
 
+* [RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics]()<br/>
+<ins>Weiliang Chen</ins>, **Song Liao**. <br/>
+ACM International Conference on Information and Knowledge Management (**CIKM**), 2026
+
+* Diffusion-Aware Error Correction Code Watermarking Framework]()<br/>
+<ins>Huan Zhao</ins>, Kan Yang, **Song Liao**. <br/>
+IEEE International Conference on Systems, Man, and Cybernetics (**SMC**), 2026
+
+* [Adversarial Attacks on Differentially Private Factorization Machines in Recommendation Systems]()<br/>
+<ins>Felix Sarpong</ins>, **Song Liao**. <br/>
+ACM Symposium on Access Control Models and Technologies (**SACMAT**), 2025
 
 
 **Privacy Compliance and Voice Personal Assistant (VPA)**
 
 * [No Way to Sign Out? Unpacking Non-Compliance with Google Play’s App Account Deletion Requirements]()<br/>
-Jingwen Yan, **Song Liao**, Jin Ma, Mohammed Aldeen, Salish Kumar, Long Cheng. <br/>
+<ins>Jingwen Yan</ins>, **Song Liao**, Jin Ma, Mohammed Aldeen, Salish Kumar, Long Cheng. <br/>
 USENIX Security Symposium (**USENIX Security**), 2025
 
 * [SkillPoV: Towards Accessible and Effective Privacy Notice for Amazon Alexa skills](https://www.ndss-symposium.org/wp-content/uploads/2025-677-paper.pdf)<br/>
-Jingwen Yan\*, **Song Liao**\*, Mohammed Aldeen, Luyi Xing, Danfeng (Daphne) Yao, Long Cheng. <br/>
+<ins>Jingwen Yan</ins>\*, **Song Liao**\*, Mohammed Aldeen, Luyi Xing, Danfeng (Daphne) Yao, Long Cheng. <br/>
 Network and Distributed System Security Symposium (**NDSS**), 2025
 
 * [A First Look at Security and Privacy Risks in the RapidAPI Ecosystem]()<br/>
