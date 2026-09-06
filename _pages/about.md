@@ -16,6 +16,18 @@ me { color:Orange;}
 talk { color:Pink;}
 people { color:Yellow;}
 text { color:#494e52;}
+
+@media (min-width: 1024px) {
+  .page {
+    width: calc(100% - 220px) !important;
+    padding-right: 0 !important;
+  }
+
+  .page__inner-wrap {
+    width: 100% !important;
+    max-width: none !important;
+  }
+}
 </style>
 
 I am a Tenure-Track Assistant Professor in the Department of Computer Science at Texas Tech University. My research interests include IoT security/privacy and data science. Specifically, my work is focused on exploring the security and privacy of Voice Personal Assistants (VPA), such as Amazon Alexa and Google Assistant.
