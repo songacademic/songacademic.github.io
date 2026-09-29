@@ -40,7 +40,7 @@ I am actively seeking motivated Ph.D. students interested in the security, priva
 - <talk>[People]</talk><text> 08/2025: Congrats to Huan on receiving the Project ENRICH Scholarship from Texas Tech University!</text>
 - <talk>[People]</talk><text> 08/2025: Weiliang and Huan joined our group. Welcome!</text>
 - <pap>[Paper]</pap><text> 06/2025: One paper on Google Play App Account Deletion was accepted to <b><font color="red">USENIX Security 2025</font></b>.</text>
-- <ser>[Service]</ser><text> 04/2025: I will serve as a TPC member for <a href = "https://www.acsac.org/">ACSAC 2025</a> and <a href = "https://www.ndss-symposium.org/ndss2026/">NDSS 2026</a>.</text>
+- <ser>[Service]</ser><text> 04/2025: I will serve as a TPC member for <a href = "https://www.acsac.org/">ACSAC 2025</a>, <a href = "https://www.ndss-symposium.org/ndss2026/">NDSS 2026</a>, and <a href = "https://www2026.thewebconf.org/">WWW 2026</a>.</text>
 - <pap>[Paper]</pap><text> 09/2024: One paper on Acoustic Privacy Notice for Voice Applications was accepted to <b><font color="red">NDSS 2025</font></b>.</text>
 - <pap>[Paper]</pap><text> 07/2024: One paper on understanding Security and Privacy Risks in the RapidAPI Ecosystem was accepted to <b><font color="red">CCS 2024</font></b>.</text>
 - <pap>[Paper]</pap><text> 07/2024: One paper on Voice Assistant Application User Review Analysis was accepted to <b><font color="red">UbiComp 2024</font></b>.</text>
