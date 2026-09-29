@@ -26,6 +26,10 @@ I earned my Ph.D. from Clemson University, where I had the privilege of working 
 I am actively seeking motivated Ph.D. students interested in the security, privacy and compliance of LLM agents.
 </p>
 
+# Research Areas
+- Policy and Privacy Compliance
+- IoT Security and Privacy
+- LLM Agent Security
 
 # News
 - <gr>[Grant]</gr><text> 08/2026: The proposal "<a href = "https://songacademic.github.io/cyberai/">CyberAI Innovation: Securing and Leveraging Agentic AI for Cyber Defense</a>" was awarded by the NSF <a href = "https://www.nsf.gov/awardsearch/show-award?AWD_ID=2623261">CyberAI</a> program. Thanks, NSF!</text>
