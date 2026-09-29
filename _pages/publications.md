@@ -13,20 +13,22 @@ imp {color:Red}
 [[Google Scholar](https://scholar.google.com/citations?user=bWD6O90AAAAJ&hl=en)] (\* Denotes equal contribution, \_ Denotes students advised by me)
 
 
-* [RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics]()<br/>
+## LLM and Agent Security
+
+* RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics<br/>
 <ins>Weiliang Chen</ins>, **Song Liao**. <br/>
 ACM International Conference on Information and Knowledge Management (**CIKM**), 2026
 
-* Diffusion-Aware Error Correction Code Watermarking Framework]()<br/>
+* Diffusion-Aware Error Correction Code Watermarking Framework<br/>
 <ins>Huan Zhao</ins>, Kan Yang, **Song Liao**. <br/>
 IEEE International Conference on Systems, Man, and Cybernetics (**SMC**), 2026
 
-* [Adversarial Attacks on Differentially Private Factorization Machines in Recommendation Systems]()<br/>
+* [Adversarial Attacks on Differentially Private Factorization Machines in Recommendation Systems](https://doi.org/10.1145/3750555.3811891)<br/>
 <ins>Felix Sarpong</ins>, **Song Liao**. <br/>
-ACM Symposium on Access Control Models and Technologies (**SACMAT**), 2025
+ACM Symposium on Access Control Models and Technologies (**SACMAT**), 2026
 
 
-**Privacy Compliance and Voice Personal Assistant (VPA)**
+## Policy and Privacy Compliance in Open Platforms
 
 * [No Way to Sign Out? Unpacking Non-Compliance with Google Play’s App Account Deletion Requirements]()<br/>
 <ins>Jingwen Yan</ins>, **Song Liao**, Jin Ma, Mohammed Aldeen, Salish Kumar, Long Cheng. <br/>
@@ -48,7 +50,7 @@ The Web Conference (**WWW**), 2024
 Mohammed Aldeen, Jeffrey Young, **Song Liao**, Tsu-Yao Chang, Long Cheng, Haipeng Cai, Xiapu Luo, Hongxin Hu. <br/>
 ACM Interactive, Mobile, Wearable, and Ubiquitous Technologies (IMWUT/UBICOMP) (**UbiComp**), 2024
 
-* [Command Hijacking on Voice-Controlled IoT in Amazon Alexa  Platform](https://songacademic.github.io/files/2024_AsiaCCS_IoT_Attack.pdf) <br/>
+* [Command Hijacking on Voice-Controlled IoT in Amazon Alexa Platform](https://songacademic.github.io/files/2024_AsiaCCS_IoT_Attack.pdf) <br/>
 Wenbo Ding, **Song Liao**, Long Cheng, Xianghang Mi, Ziming Zhao, Hongxin Hu. <br/>
 ACM ASIA Conference on Computer and Communications Security (**ASIACCS**), 2024
 
@@ -65,17 +67,16 @@ USENIX Security Symposium (**USENIX Security**), 2022
 IEEE Security & Privacy Magazine, 2021
 
 * [Measuring the Effectiveness of Privacy Policies for Voice Assistant Applications](https://songacademic.github.io/files/2020_ACSAC_Privacy%20Policy%20Analysis.pdf) <br/>
-**Song Liao**\*, Christin Wilson*, Long Cheng, Hongxin Hu, and Huixing Deng. <br/>
+**Song Liao**\*, Christin Wilson\*, Long Cheng, Hongxin Hu, and Huixing Deng. <br/>
 Annual Computer Security Applications Conference (**ACSAC**), 2020<br/>
-<b><font color="red">Distinguish paper award</font></b><br/>
+<b><font color="red">Distinguished Paper Award</font></b><br/>
 
 * [Dangerous Skills Got Certified: Measuring the Trustworthiness of Skill Certification in Voice Personal Assistant Platforms](https://songacademic.github.io/files/2020_CCS_VPA_Measurement.pdf) <br/>
 Long Cheng, Christin Wilson, **Song Liao**, Jeffrey Young, Daniel Dong, and Hongxin Hu. <br/>
 ACM Conference on Computer and Communications Security (**CCS**), 2020
 
-<br/>
 
-**Online Abuse Detection
+## Online Abuse Detection
 
 * [Analysis of COVID-19 Offensive Tweets and Their Targets](https://songacademic.github.io/files/2023_KDD_OffensiveTweetAnalysis.pdf) <br/>
 **Song Liao**, Ebuka Okpala, Long Cheng, Nishant Vishwamitra, Mingqi Li, Hongxin Hu, Feng Luo, and Matthew Costello <br/>
@@ -85,7 +86,6 @@ International Conference on Knowledge Discovery and Data Mining (**KDD**), 2023
 Nishant Vishwamitra, Keyan Guo, **Song Liao**, Jaden Mu, Zheyuan Ma, Long Cheng, Ziming Zhao, Hongxin Hu. <br/>
 International Conference on Advances in Social Networks Analysis and Mining (**ASONAM**), 2023
 
-        
 * [COVID-19 and Sinophobia: Detecting Warning Signs of Radicalization on Twitter and Reddit](https://songacademic.github.io/files/2023_COVID-19%20and%20Sinophobia%20Detecting%20Warning%20Signs%20of%20Radicalization%20on%20Twitter%20and%20Reddit.pdf) <br/>
 Matthew Costello, Nishant Vishwamitra, **Song Liao**, Long Cheng, Feng Luo, and Hongxin Hu. <br/>
 Cyberpsychology, Behavior, and Social Networking, 2023
@@ -97,5 +97,3 @@ IEEE International Conference on Machine Learning and Applications (**ICMLA**), 
 * [COVID-19: A Pandemic of Anti-Asian Cyberhate](https://songacademic.github.io/files/2021_COVID-19%20A%20Pandemic%20of%20Anti-Asian%20Cyberhate.pdf) <br/>
 Matthew Costello, Long Cheng, Feng Luo, Hongxin Hu, **Song Liao**, Nishant Vishwamitra, Mingqi Li, and Ebuka Okpala. <br/>
 Journal of Hate Studies, 2021
-
-
