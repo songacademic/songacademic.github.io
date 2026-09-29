@@ -28,35 +28,35 @@ I earned my Ph.D. from Clemson University, where I had the privilege of working 
 - LLM Agent Security
 
 <p style="color:red;">
-I am actively seeking motivated Ph.D. students interested in the security, privacy and compliance of LLM agents.
+I am actively seeking motivated Ph.D. students interested in the security, privacy, and compliance of LLM agents.
 </p>
 
 # News
 - <gr>[Grant]</gr><text> 08/2026: The proposal "<a href = "https://songacademic.github.io/cyberai/">CyberAI Innovation: Securing and Leveraging Agentic AI for Cyber Defense</a>" was awarded by the NSF <a href = "https://www.nsf.gov/awardsearch/show-award?AWD_ID=2623261">CyberAI</a> program. Thanks, NSF!</text>
-- <pap>[Paper]</pap><text> 08/2026: One paper on Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics was accepted by <font color="red">CIKM 2026</font>. Congrats to Weiliang!</text>
-- <pap>[Paper]</pap><text> 06/2026: One paper on Diffusion-Aware Error Correction Code Watermarking Framework was accepted by <font color="red">SMC 2026</font>. Congrats to Huan!</text>
-- <ser>[Service]</ser><text> 05/2026: I will serve as a TPC Member for <a href = "https://www.acsac.org/">ACSAC 2026</a>, <a href = "https://www.ndss-symposium.org/ndss2027/">NDSS 2027</a>, and  <a href = "https://www.usenix.org/conference/usenixsecurity27">Usenix Security 2027</a>. </text>
-- <pap>[Paper]</pap><text> 01/2026: One paper on Adversarial Attacks on Differentially Private Factorization Machines in Recommendation Systems was accepted by <font color="red">SACMAT 2026</font>. Congrats to Felix!</text>
-- <talk>[People]</talk><text> 08/2025: Congrats to Huan for winning the Project ENRICH Scholarship Program from TTU!</text>
+- <pap>[Paper]</pap><text> 08/2026: One paper on Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics was accepted to <font color="red">CIKM 2026</font>. Congrats to Weiliang!</text>
+- <pap>[Paper]</pap><text> 06/2026: One paper on Diffusion-Aware Error Correction Code Watermarking Framework was accepted to <font color="red">SMC 2026</font>. Congrats to Huan!</text>
+- <ser>[Service]</ser><text> 05/2026: I will serve as a TPC member for <a href = "https://www.acsac.org/">ACSAC 2026</a>, <a href = "https://www.ndss-symposium.org/ndss2027/">NDSS 2027</a>, and  <a href = "https://www.usenix.org/conference/usenixsecurity27">USENIX Security 2027</a>.</text>
+- <pap>[Paper]</pap><text> 01/2026: One paper on Adversarial Attacks on Differentially Private Factorization Machines in Recommendation Systems was accepted to <font color="red">SACMAT 2026</font>. Congrats to Felix!</text>
+- <talk>[People]</talk><text> 08/2025: Congrats to Huan on receiving the Project ENRICH Scholarship from Texas Tech University!</text>
 - <talk>[People]</talk><text> 08/2025: Weiliang and Huan joined our group. Welcome!</text>
-- <pap>[Paper]</pap><text> 06/2025: One paper on Google Play App Account Deletion was accepted by <b><font color="red">USENIX Security 2025 </font></b>.</text>
-- <ser>[Service]</ser><text> 04/2025: I will serve as a TPC Member for <a href = "https://www.acsac.org/">ACSAC 2025</a> and <a href = "https://www.ndss-symposium.org/ndss2026/">NDSS 2026</a>. </text>
-- <pap>[Paper]</pap><text> 09/2024: One paper on Acoustic Privacy Notice for Voice Applications was accepted by <b><font color="red">NDSS 2025</font></b>.</text>
-- <pap>[Paper]</pap><text> 07/2024: One paper on understanding Security and Privacy Risks in the RapidAPI Ecosystem was accepted by <b><font color="red">CCS 2024</font></b>.</text>
-- <pap>[Paper]</pap><text> 07/2024: One paper on Voice Assistant Application User Review Analysis was accepted by <b><font color="red">UbiComp 2024</font></b>. </text>
-- <pap>[Paper]</pap><text> 03/2024: One paper on IoT Voice Assistant Applications Analysis was accepted by <b><font color="red">AsiaCCS 2024</font></b>. </text>
-- <pap>[Paper]</pap><text> 01/2024: One paper on Understanding GDPR Non-Compliance in Privacy Policies of Voice Assistant Applications was accepted by <b><font color="red">WWW 2024</font></b>. </text>
-- <pap>[Paper]</pap><text> 05/2023: One paper on Static Code Analysis of Voice Assistant Applications was accepted by <b><font color="red">CCS 2023</font></b>. </text>
-- <pap>[Paper]</pap><text> 05/2023: One paper on Tweet Data Analysis was accepted by <b><font color="red">KDD 2023</font></b>. </text>
-- <pap>[Paper]</pap><text> 08/2021: One paper on Policy-Violation Detection of Voice Assistant Applications was accepted by <b><font color="red">USENIX Security 2022</font></b>. </text>
-- <talk>[Talk]</talk><text> 07/2021: We presented our work on Policy-Violation Detection of Voice Assistant Applications at the FTC's <a href = "https://www.ftc.gov/media/73491">PrivacyCon 2021</a>. </text>
-- <pap>[Paper]</pap><text> 05/2021: One paper on Privacy Policy Analysis of Voice Assistant Applications was accepted by <font color="red">IEEE Security & Privacy Magazine 2021</font> (invited).</text>
+- <pap>[Paper]</pap><text> 06/2025: One paper on Google Play App Account Deletion was accepted to <b><font color="red">USENIX Security 2025</font></b>.</text>
+- <ser>[Service]</ser><text> 04/2025: I will serve as a TPC member for <a href = "https://www.acsac.org/">ACSAC 2025</a> and <a href = "https://www.ndss-symposium.org/ndss2026/">NDSS 2026</a>.</text>
+- <pap>[Paper]</pap><text> 09/2024: One paper on Acoustic Privacy Notice for Voice Applications was accepted to <b><font color="red">NDSS 2025</font></b>.</text>
+- <pap>[Paper]</pap><text> 07/2024: One paper on understanding Security and Privacy Risks in the RapidAPI Ecosystem was accepted to <b><font color="red">CCS 2024</font></b>.</text>
+- <pap>[Paper]</pap><text> 07/2024: One paper on Voice Assistant Application User Review Analysis was accepted to <b><font color="red">UbiComp 2024</font></b>.</text>
+- <pap>[Paper]</pap><text> 03/2024: One paper on IoT Voice Assistant Applications Analysis was accepted to <b><font color="red">AsiaCCS 2024</font></b>.</text>
+- <pap>[Paper]</pap><text> 01/2024: One paper on Understanding GDPR Non-Compliance in Privacy Policies of Voice Assistant Applications was accepted to <b><font color="red">WWW 2024</font></b>.</text>
+- <pap>[Paper]</pap><text> 05/2023: One paper on Static Code Analysis of Voice Assistant Applications was accepted to <b><font color="red">CCS 2023</font></b>.</text>
+- <pap>[Paper]</pap><text> 05/2023: One paper on Tweet Data Analysis was accepted to <b><font color="red">KDD 2023</font></b>.</text>
+- <pap>[Paper]</pap><text> 08/2021: One paper on Policy-Violation Detection of Voice Assistant Applications was accepted to <b><font color="red">USENIX Security 2022</font></b>.</text>
+- <talk>[Talk]</talk><text> 07/2021: We presented our work on Policy-Violation Detection of Voice Assistant Applications at the FTC's <a href = "https://www.ftc.gov/media/73491">PrivacyCon 2021</a>.</text>
+- <pap>[Paper]</pap><text> 05/2021: One paper on Privacy Policy Analysis of Voice Assistant Applications was accepted for publication in <font color="red">IEEE Security & Privacy Magazine</font> (invited).</text>
 - <gr>[Award]</gr><text> 12/2020: Our paper received <font color="red">Distinguished Paper Award</font> at the <b><font color="red">ACSAC 2020</font></b>.</text>
 - <gr>[Award]</gr><text> 12/2020: Google awarded us an <font color="Purple">Abuse Research Grant</font> to support our research on abuse risks in Google products.</text>
-- <pap>[Paper]</pap><text>  09/2020: One paper on Trustworthiness of Skill Certification in Voice Assistant Platforms was accepted by <b><font color="red">CCS 2020</font></b>.</text>
-- <pap>[Paper]</pap><text>  08/2020: One paper on Privacy Policy Analysis of Voice Assistant Applications was accepted by <b><font color="red">ACSAC 2020</font></b>.</text>
-- <talk>[Talk]</talk><text>  08/2020: We presented our work on the Trustworthiness of Skill Certification in Voice Personal Assistant Platforms at the FTC's <a href = "https://www.ftc.gov/news-events/events/2020/07/privacycon-2020">PrivacyCon 2020.</a></text>
-- <me>[Media]</me><text>  07/2020: <a href = "https://www.theregister.com/2020/07/29/amazon_google_voice_apps/">The Register</a> and some others reported our work on measuring the ineffectiveness of privacy policies for voice-apps.</text>
-- <gr>[Award]</gr><text> 07/2020: Google awarded us $5,000 <font color="Purple">bug bounty</font> for discovering vulnerabilities of Google Actions.</text>
-- <me>[Media]</me><text>  07/2020: <a href = "https://www.theregister.com/2020/07/23/amazon_alexa_skills/">The Register</a>, <a href = "https://washingtoninternetdaily.com/news/2020/07/22/amazon-deploys-additional-checks-for-alexa-skills-certification-2007210055">Washington Internet Dail </a>, <a href = "https://www.zdnet.com/article/academics-smuggle-234-policy-violating-skills-on-the-alexa-skills-store/">ZDNet</a> and some others reported our work on measuring the trustworthiness of Alexa's skills certification.</text>
+- <pap>[Paper]</pap><text> 09/2020: One paper on Trustworthiness of Skill Certification in Voice Assistant Platforms was accepted to <b><font color="red">CCS 2020</font></b>.</text>
+- <pap>[Paper]</pap><text> 08/2020: One paper on Privacy Policy Analysis of Voice Assistant Applications was accepted to <b><font color="red">ACSAC 2020</font></b>.</text>
+- <talk>[Talk]</talk><text> 08/2020: We presented our work on the Trustworthiness of Skill Certification in Voice Personal Assistant Platforms at the FTC's <a href = "https://www.ftc.gov/news-events/events/2020/07/privacycon-2020">PrivacyCon 2020</a>.</text>
+- <me>[Media]</me><text> 07/2020: <a href = "https://www.theregister.com/2020/07/29/amazon_google_voice_apps/">The Register</a> and some others reported our work on measuring the ineffectiveness of privacy policies for voice apps.</text>
+- <gr>[Award]</gr><text> 07/2020: Google awarded us a $5,000 <font color="Purple">bug bounty</font> for discovering vulnerabilities of Google Actions.</text>
+- <me>[Media]</me><text> 07/2020: <a href = "https://www.theregister.com/2020/07/23/amazon_alexa_skills/">The Register</a>, <a href = "https://washingtoninternetdaily.com/news/2020/07/22/amazon-deploys-additional-checks-for-alexa-skills-certification-2007210055">Washington Internet Daily</a>, <a href = "https://www.zdnet.com/article/academics-smuggle-234-policy-violating-skills-on-the-alexa-skills-store/">ZDNet</a> and some others reported our work on measuring the trustworthiness of Alexa's skills certification.</text>
   
