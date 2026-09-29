@@ -22,14 +22,14 @@ I am a Tenure-Track Assistant Professor in the Department of Computer Science at
 
 I earned my Ph.D. from Clemson University, where I had the privilege of working under the guidance of Dr. [Long Cheng](https://people.computing.clemson.edu/~lcheng2/). Before pursuing my Ph.D., I completed both my bachelor's and master's degrees at Xi'an Jiaotong University, where I conducted research at the Institute of Artificial Intelligence and Robotics (IAIR) under the mentorship of Dr. Yuehu Liu.
 
-<p style="color:red;">
-I am actively seeking motivated Ph.D. students interested in the security, privacy and compliance of LLM agents.
-</p>
-
 # Research Areas
 - Policy and Privacy Compliance
 - IoT Security and Privacy
 - LLM Agent Security
+
+<p style="color:red;">
+I am actively seeking motivated Ph.D. students interested in the security, privacy and compliance of LLM agents.
+</p>
 
 # News
 - <gr>[Grant]</gr><text> 08/2026: The proposal "<a href = "https://songacademic.github.io/cyberai/">CyberAI Innovation: Securing and Leveraging Agentic AI for Cyber Defense</a>" was awarded by the NSF <a href = "https://www.nsf.gov/awardsearch/show-award?AWD_ID=2623261">CyberAI</a> program. Thanks, NSF!</text>
