@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 <style>
-pap { color:#3F8C7A; }
-ser { color:#5B7FAE; }
-gr { color:#8A63A8; }
-me { color:#C7773D; }
-talk { color:#C06B92; }
-people { color:#C49A2C; }
+pap { color:#55A892; }
+ser { color:#7398C6; }
+gr { color:#A47BC3; }
+me { color:#D99356; }
+talk { color:#D783A5; }
+people { color:#D8B84A; }
 text { color:#494e52;}
 </style>
 
