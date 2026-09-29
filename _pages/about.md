@@ -28,7 +28,7 @@ I am actively seeking motivated Ph.D. students interested in the security, priva
 
 
 # News
-- <gr>[Grant]</gr><text> 08/2026: The proposal "<a href = "https://songacademic.github.io/cyberai/">CyberAI Innovation: Securing and Leveraging Agentic AI for Cyber Defense" was awarded by the NSF <a href = "https://www.nsf.gov/awardsearch/show-award?AWD_ID=2623261">CyberAI</a> program. Thanks, NSF!</text>
+- <gr>[Grant]</gr><text> 08/2026: The proposal "<a href = "https://songacademic.github.io/cyberai/">CyberAI Innovation: Securing and Leveraging Agentic AI for Cyber Defense</a>" was awarded by the NSF <a href = "https://www.nsf.gov/awardsearch/show-award?AWD_ID=2623261">CyberAI</a> program. Thanks, NSF!</text>
 - <pap>[Paper]</pap><text> 08/2026: One paper on Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics was accepted by <font color="red">CIKM 2026</font>. Congrats to Weiliang!</text>
 - <pap>[Paper]</pap><text> 06/2026: One paper on Diffusion-Aware Error Correction Code Watermarking Framework was accepted by <font color="red">SMC 2026</font>. Congrats to Huan!</text>
 - <ser>[Service]</ser><text> 05/2026: I will serve as a TPC Member for <a href = "https://www.acsac.org/">ACSAC 2026</a>, <a href = "https://www.ndss-symposium.org/ndss2027/">NDSS 2027</a>, and  <a href = "https://www.usenix.org/conference/usenixsecurity27">Usenix Security 2027</a>. </text>
