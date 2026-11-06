@@ -10,7 +10,7 @@ imp {color:Red}
 
 {% include base_path %}
 
-[[Google Scholar](https://scholar.google.com/citations?user=bWD6O90AAAAJ&hl=en)] (\* Denotes equal contribution, \_ Denotes students advised by me)
+[[Google Scholar](https://scholar.google.com/citations?user=Py17kI8AAAAJ&hl=en&authuser=1)] (\* Denotes equal contribution, \_ Denotes students advised by me)
 
 
 ## LLM and Agent Security
