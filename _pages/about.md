@@ -18,7 +18,7 @@ people { color:Yellow;}
 text { color:#494e52;}
 </style>
 
-I am a Tenure-Track Assistant Professor in the Department of Computer Science at Texas Tech University. I lead the <font color="red">SPACE</font> Lab (<font color="red">S</font>ecurity, <font color="red">P</font>rivacy, <font color="red">a</font>nd <font color="red">C</font>ompliance <font color="red">E</font>ngineering). My research interests include IoT security/privacy and data science. Specifically, my work is focused on exploring the security and privacy of Voice Personal Assistants (VPA), such as Amazon Alexa and Google Assistant.
+I am a Tenure-Track Assistant Professor in the Department of Computer Science at Texas Tech University. I lead the <font color="red">SPACE</font> Lab (<font color="red">S</font>ecurity, <font color="red">P</font>rivacy, <font color="red">a</font>nd <font color="red">C</font>ompliance <font color="red">E</font>ngineering). My research interests include IoT security/privacy and data science. Specifically, my research focuses on security, privacy, and policy compliance in emerging computing platforms, including IoT systems and LLM agents.
 
 I earned my Ph.D. from Clemson University, where I had the privilege of working under the guidance of Dr. [Long Cheng](https://people.computing.clemson.edu/~lcheng2/). Before pursuing my Ph.D., I completed both my bachelor's and master's degrees at Xi'an Jiaotong University, where I conducted research at the Institute of Artificial Intelligence and Robotics (IAIR) under the mentorship of Dr. Yuehu Liu.
 
