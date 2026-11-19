@@ -23,6 +23,8 @@ The SPACE Lab at Texas Tech University conducts research in security, privacy, a
 
 ## Members
 
+- **Song Liao** — Lab Director / Principal Investigator
+
 - [Weiliang Chen](https://weilchen6.github.io/) (2025–present)
   - First author of a CIKM 2026 paper
 
