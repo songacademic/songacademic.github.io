@@ -23,5 +23,9 @@ The SPACE Lab at Texas Tech University conducts research in security, privacy, a
 
 ## Members
 
-- [Weiliang Chen](https://weilchen6.github.io/)
-- Huan Zhao
+- [Weiliang Chen](https://weilchen6.github.io/) (2025–present)
+  - First author of a CIKM 2026 paper
+
+- Huan Zhao (2025–present)
+  - Project ENRICH Scholarship, Texas Tech University
+  - First author of an SMC 2026 paper
