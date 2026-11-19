@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "SPACE Lab"
+title: ""
 permalink: /lab/
 author_profile: true
 ---
