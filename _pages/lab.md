@@ -5,11 +5,15 @@ permalink: /lab/
 author_profile: true
 ---
 
+<p align="center">
+  <img src="/images/space-lab-logo.png" alt="SPACE Lab logo" width="320">
+</p>
+
 # <font color="red">SPACE</font> Lab
 
 **<font color="red">S</font>ecurity, <font color="red">P</font>rivacy, <font color="red">a</font>nd <font color="red">C</font>ompliance <font color="red">E</font>ngineering**
 
-The SPACE Lab at Texas Tech University conducts research on security, privacy, and policy compliance in emerging computing platforms, including IoT systems and LLM agents.
+The SPACE Lab at Texas Tech University conducts research in security, privacy, and compliance engineering. Our work focuses on understanding and addressing security, privacy, and policy compliance challenges in emerging computing platforms, including IoT systems and LLM agents. We aim to develop practical methods and tools that make modern computing systems more secure, privacy-preserving, and compliant.
 
 ## Research Areas
 
