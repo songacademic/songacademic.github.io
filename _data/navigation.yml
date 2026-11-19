@@ -6,6 +6,9 @@ main:
   - title: "Grant"
     url: /cyberai-project/
 
+  - title: "Lab"
+    url: /lab/
+
   - title: "Students"
     url: /students/
 
